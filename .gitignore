@@ -26,3 +26,7 @@ operating-systems-principles-and-practice*.pdf
 
 # Local tool outputs
 *.o
+
+# Official solutions (kept locally, not published)
+*_sol.pdf
+*[Ss]olution*.pdf
