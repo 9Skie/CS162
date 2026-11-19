@@ -1,0 +1,17 @@
+# Local build products; supplied binary-only starter objects stay visible.
+__pycache__/
+.ipynb_checkpoints/
+*.so
+0 Intro/code/map
+0 Intro/code/limits
+0 Intro/code/words/words
+1 Lists/code/pthread
+1 Lists/code/words
+1 Lists/code/lwords
+1 Lists/code/pwords
+2 Shell/code/shell
+4 Malloc/code/mm_test
+5 HTTP Server/code/httpserver
+5 HTTP Server/code/forkserver
+5 HTTP Server/code/threadserver
+5 HTTP Server/code/poolserver
